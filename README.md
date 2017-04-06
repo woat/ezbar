@@ -1,7 +1,7 @@
 # ezbar
 
-![Screenshot](shot.jpg)
-![Screenshot](shot2.jpg)
+![Screenshot](shot.png)
+![Screenshot](shot2.png)
 
 A very simple widget that shows day + time + battery.
 
