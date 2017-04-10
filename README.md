@@ -1,7 +1,7 @@
 # ezbar
 
 <p align="center">
-  <img src="shot.png">
+  <img src="ss.png">
 </p>
 
 A widget that displays day + time + battery.
