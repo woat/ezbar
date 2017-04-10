@@ -7,9 +7,9 @@ render: (output) ->
 
 style: """
   -webkit-font-smoothing: antialiased
-  font: 14px Avenir Next
-  top: 12px
-  right: 16px
+  font: 12px Menlo
+  top: 14px
+  right: 18px
   span
     color: #A9B0B3
 """

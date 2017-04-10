@@ -8,10 +8,10 @@ render: (output) ->
 style: """
   -webkit-font-smoothing: antialiased
   color: #FCFBE3
-  font: 14px Avenir Next
-  top: 12px
+  font: 12px Menlo
+  top: 14px
   width: 100%
-  right: 50px
+  right: 46px
   text-transform: lowercase
   text-align: right
 """
