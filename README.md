@@ -1,4 +1,4 @@
-# ezclock
+# ezbar
 
 <p align="center">
   <img src="ss.png">
